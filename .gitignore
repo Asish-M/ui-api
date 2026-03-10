@@ -1,0 +1,29 @@
+# Build output
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Maven
+dependency-reduced-pom.xml
+
+# Allure
+allure-results/
+allure-report/
+
+# Screenshots
+screenshots/
+
+# OS
+.DS_Store
+Thumbs.db
