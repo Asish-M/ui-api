@@ -1,7 +1,7 @@
 package com.automation.tests.api;
 
+import com.automation.api.BaseAPITest;
 import com.automation.api.endpoints.UserAPI;
-import com.automation.base.BaseAPITest;
 import com.automation.listeners.RetryAnalyzer;
 import io.qameta.allure.*;
 import io.restassured.response.Response;
